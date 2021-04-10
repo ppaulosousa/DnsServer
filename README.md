@@ -1,4 +1,4 @@
-```Compile o programa```
+# ```Compile o programa```
 
 1. gcc Wall -o <nomedoprograma> dnsquery.c
 2. ./dnsquery 1.1.1.1 www.google.com (ou outro site)
